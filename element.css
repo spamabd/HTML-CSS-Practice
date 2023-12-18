@@ -1,0 +1,8 @@
+p,a{
+ 
+    color: greenyellow;
+}
+
+span.special,li.special{
+    color: darkgoldenrod;
+}
