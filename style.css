@@ -1,3 +1,17 @@
-h3 {
-    color: blueviolet;
+table,
+tr,
+th,
+td {
+    border: 2px solid blue;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 6px;
+}
+
+th{
+    background-color: blueviolet;
+}
+
+td{
+    background-color: darkgreen;
 }
